@@ -1,2 +1,2 @@
-# aiffel
-과제 제출용
+# AIFFEL AI course project
+The project repository for aiffel
