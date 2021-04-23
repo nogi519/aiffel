@@ -1,2 +1,2 @@
-# AIFFEL AI course project
-The project repository for aiffel
+# AIFFEL 1st SEMESTER PROJECT
+The project repository for AIFFEL EXPLORATION_DJ
