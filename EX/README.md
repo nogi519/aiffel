@@ -1,2 +1,3 @@
 # AIFFEL 1st SEMESTER PROJECT
-The project repository for AIFFEL EXPLORATION_DJ
+The Project on Toy Project(deep learning, machine learning, image classification, etc.)
+Project keyword
