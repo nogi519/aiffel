@@ -9,3 +9,4 @@ The project repository for AIFFEL Going Deeper(NLP)_DJ : with TensorFlow
  * [p10](https://github.com/nogi519/aiffel/blob/main/GD/P10.%20Transformer%EB%A1%9C%20%EB%B2%88%EC%97%AD%EA%B8%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb): Transformer
  * [p12](https://github.com/nogi519/aiffel/blob/main/GD/P12.%20%EB%B2%88%EC%97%AD%EA%B0%80%EB%8A%94%20%EB%8C%80%ED%99%94%EC%97%90%EB%8F%84%20%EB%8A%A5%ED%95%98%EB%8B%A4.ipynb): English-Spanish data, BLEU Score, NLTK( Natural Language Tool Kit), Beam Search, Data Augmentation(Embedding을 활용한 Lexical Substitution)
  * [p14](https://github.com/nogi519/aiffel/blob/main/GD/P14.%20%EC%B6%94%EB%A1%A0%ED%95%98%EB%8A%94%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5.ipynb): End-to-End Memory Network, bAbI QA task
+ * [p16](https://github.com/nogi519/aiffel/blob/main/P_Going%20Deeper(NLP)/P16.%20BERT%20pretrained%20model%20%EC%A0%9C%EC%9E%91.ipynb): BERT
