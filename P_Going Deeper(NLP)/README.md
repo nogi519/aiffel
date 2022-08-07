@@ -11,3 +11,4 @@ The project repository for AIFFEL Going Deeper(NLP)_DJ : with TensorFlow
  * [p14](https://github.com/nogi519/aiffel/blob/main/GD/P14.%20%EC%B6%94%EB%A1%A0%ED%95%98%EB%8A%94%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5.ipynb): End-to-End Memory Network, bAbI QA task
  * [p16](https://github.com/nogi519/aiffel/blob/main/P_Going%20Deeper(NLP)/P16.%20BERT%20pretrained%20model%20%EC%A0%9C%EC%9E%91.ipynb): BERT
  * [p18](https://github.com/nogi519/aiffel/blob/main/P_Going%20Deeper(NLP)/P18.%20HuggingFace%20%EC%BB%A4%EC%8A%A4%ED%85%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb): Huggingface transformers
+ * [p20](https://github.com/nogi519/aiffel/blob/main/P_Going%20Deeper(NLP)/P20.%20LXMERT%EB%A1%9C%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EB%8A%94%20VQA.ipynb): LXMERT
