@@ -1,5 +1,5 @@
 # AIFFEL AI course project
-The project repository for aiffel<br><br><br>
+The project repository for aiffel.<br><br>
 ## Practice
 - kaggle
   - Predict Future Sales: Final project for "How to win a data science competition" Coursera course
